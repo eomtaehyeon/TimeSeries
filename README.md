@@ -14,7 +14,7 @@
 
 ## Kaggle Introduction :mag:
 
-<H1>Tabular Playground Series Apr 22
+<H1>Tabular Playground Series Apr 22</H1>
 
 <aside>
 📌 Welcome to the April edition of the 2022 Tabular Playground Series! This month's challenge is a *time series classification* problem.
