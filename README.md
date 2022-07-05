@@ -1,18 +1,18 @@
 # Kaggle competition을 통한 시계열 데이터 분류 모델 연구
 
 
-## 프로젝트 목표 :fire:
+## :fire: 프로젝트 목표 
 
 시계열 데이터에 대한 전반적 특징을 이해하고, 
 캐글 실습을 통해 시계열 분류에 사용되는 다양한 알고리즘을 비교하여
 시계열 데이터에 가장 적합한 모델을 탐색.
 
-## 시계열 데이터란 :memo:
+## :memo: 시계열 데이터란 
 : 어떤 현상에 대하여 *시간의 흐름에 따라 기록* 되어 미래의 변화에 대한 추세를 나타내는 데이터를 총칭.
 시간의 흐름에 따라 *순차적으로 발생한 관측치의 집합*이며, 이때 발생한 연속적인 관측치는 서로 관련이 있다.
 
 
-## Kaggle Introduction :mag:
+## :mag: Kaggle Introduction 
 
 ### Tabular Playground Series Apr 22
 
@@ -35,7 +35,7 @@ You've been provided with thousands of sixty-second sequences of biological sens
 - ***test.csv*** - the test set. For each of the ~12,000 sequences, you should predict a value for that sequence's `state`.
 - ***sample_submission.csv*** - a sample submission file in the correct format.
 
-## Score List :page_facing_up:
+## :page_facing_up: Score List 
 
 - Submit 0 (22.04.19) : score = ***0.500***
     - URL : [https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22?scriptVersionId=93447534](https://www.kaggle.com/code/jiwonkng/tabular-playground-apr-22?scriptVersionId=93447534) (ver 7)
@@ -75,3 +75,13 @@ You've been provided with thousands of sixty-second sequences of biological sens
 ## Modeling :chart_with_upwards_trend:
 
 다양한 머신러닝 / 딥러닝의 모델을 연구하고 시계열 데이터 예측에 맞는 모델을 선정.
+
+
+
+## 📃 Reference  
+- Permutation Feature Importance, 
+: https://soohee410.github.io/iml_permutation_importance
+- Sklearn Permutation Importance 를 사용한 Feature 중요도 파악
+: https://wooono.tistory.com/328
+
+
