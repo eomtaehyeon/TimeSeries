@@ -234,7 +234,23 @@
 
 ---
 
-💡 
+💡 딥러닝 모델 사용의 장점
+    - 정상성을 요구하지 않음.
+    - 계절형 ARIMA 모델의 차수, 계절성에 따른 평가와 같은 파라미터를 고르는 기술을 개발할 필요가 없다.
+    - 상태공간 모델링에서 유용했던 시스템의 역동성에 대한 가성이 필요 없다.
+- 머신러닝과의 비교 
+    - 머신러닝 알고리즘은 입력데이터와 차원성이라는 측면에서는 꽤 불안정한 경향이 있는 반면, 딥러닝은 모델과 입력의 특성에 관해서 매우 유연
+
+1. Recurrent Neural Network (RNN)
+
+
+2. Long Short-Term Meomory (LSTM)
+
+
+
+
+
+
 
 
 
@@ -246,3 +262,6 @@
 
 - 실전 시계열 분석 리뷰.pdf / 
  : https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24ee898a-a40b-4701-91a1-2c1b33adfa8a/%EC%8B%A4%EC%A0%84_%EC%8B%9C%EA%B3%84%EC%97%B4_%EB%B6%84%EC%84%9D_%EB%A6%AC%EB%B7%B0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220705%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220705T034813Z&X-Amz-Expires=86400&X-Amz-Signature=feb527a3136967d90024eaedec0de8d8a0dbb56dadc64b53c42a98d8fc13a73c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EC%258B%25A4%25EC%25A0%2584%2520%25EC%258B%259C%25EA%25B3%2584%25EC%2597%25B4%2520%25EB%25B6%2584%25EC%2584%259D%2520%25EB%25A6%25AC%25EB%25B7%25B0.pdf%22&x-id=GetObject
+
+ - Time series(시계열) Forecasting 시리즈 - 머신러닝 접근법 101 / DATACREW
+  : http://datacrew.tech/time-series%EC%8B%9C%EA%B3%84%EC%97%B4-forecasting-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90/

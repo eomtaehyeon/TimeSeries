@@ -72,7 +72,7 @@ You've been provided with thousands of sixty-second sequences of biological sens
     - LSTM 모델 레이어 변경. raw feature 사용.
 
 
-## Modeling :chart_with_upwards_trend:
+## :chart_with_upwards_trend: Modeling :chart_with_upwards_trend:
 
 다양한 머신러닝 / 딥러닝의 모델을 연구하고 시계열 데이터 예측에 맞는 모델을 선정.
 
